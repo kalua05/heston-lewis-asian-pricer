@@ -1,0 +1,25 @@
+# secrets
+.streamlit/secrets.toml
+.env
+*.pem
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# artefacts
+data/cache/
+*.pkl
+results/gwp1_results_quick.json
+.ipynb_checkpoints/
+
+# os / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
