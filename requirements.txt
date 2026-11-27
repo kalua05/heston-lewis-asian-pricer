@@ -1,0 +1,10 @@
+numpy>=1.26,<3
+scipy>=1.11,<2
+pandas>=2.1,<4
+openpyxl>=3.1,<4
+pillow>=13.0.0,<14  # security fixes (Streamlit dependency)
+plotly>=5.18,<8
+streamlit>=1.50,<2
+yfinance>=0.2.40,<2
+requests>=2.31,<3
+python-pptx>=0.6.23,<2
